@@ -6,7 +6,6 @@ import com.mc.gsonutil.GsonUtil;
 import com.mc.gsonutil.R;
 import com.mc.gsonutil.StreamUtil;
 import com.mc.gsonutil.TheBean;
-
 import android.app.Activity;
 import android.os.Bundle;
 import android.view.View;
